@@ -15,7 +15,7 @@ The suite includes tests for various features of the Swagger Petstore, ensuring 
 ## Project Structure
 
 ```
-YellowPepper/
+PetStoreAPI/
 │
 ├── src/
 │ ├── test/
