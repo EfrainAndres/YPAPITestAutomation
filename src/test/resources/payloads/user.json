@@ -1,0 +1,22 @@
+{
+  "createUser": {
+    "id": 301,
+    "username": "john_doe",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "phone": "1234567890",
+    "userStatus": 1
+  },
+  "updateUser": {
+    "id": 301,
+    "username": "john_smith",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "john.smith@example.com",
+    "password": "password123",
+    "phone": "1234567890",
+    "userStatus": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "createPet": {
+    "id": 123,
+    "name": "Doggie"
+  },
+  "updatePet": {
+    "id": 124,
+    "name": "KittyUpdated"
+  }
+}
